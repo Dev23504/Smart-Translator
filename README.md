@@ -1,16 +1,26 @@
-# React + Vite
+# 🌐 Smart Translator & Generator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Features
+- Translate English text into multiple languages
+- Generate random strings dynamically
+- Client-side routing using React Router
+- Responsive UI with Tailwind CSS
 
-Currently, two official plugins are available:
+## 🛠️ Tech Stack
+- React (Vite)
+- Tailwind CSS
+- RapidAPI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📦 Modules
+1. Translator (API based)
+2. Random String Generator (useState, useEffect, useCallback)
 
-## React Compiler
+## ▶️ Run Locally
+npm install
+npm run dev
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🌍 Live Demo
+https://translator-generator1.netlify.app/
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👨‍💻 Author
+Devraj Singh
